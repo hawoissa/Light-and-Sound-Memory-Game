@@ -42,9 +42,11 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Game Won
+
 ![](https://i.imgur.com/HqM1DsM.gif)
 
 Game Lost
+
 ![](https://i.imgur.com/3ITksqG.gif)
 
 
