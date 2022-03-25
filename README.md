@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Play sequence repeats itself after user makes mistake
+- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
