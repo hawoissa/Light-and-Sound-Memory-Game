@@ -7,6 +7,7 @@ Submitted by: Hawo Issa
 Time spent: 6 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/unique-beneficial-silver
+
 Live Site: https://unique-beneficial-silver.glitch.me
 
 ## Required Functionality
