@@ -84,7 +84,7 @@ I would add many things to this project, but I will discuss only a few. I would 
 
 ## License
 
-    Copyright [Hawo Issa]
+    Copyright Hawo Issa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
