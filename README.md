@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] 60-second timer that ticks throughout the game
+* [x] User has 60 seconds to complete the game
 * [x] User is alerted when mistake is made
 * [x] Play sequence is repeated after mistake
 
