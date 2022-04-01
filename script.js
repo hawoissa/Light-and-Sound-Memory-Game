@@ -113,7 +113,7 @@ function playClueSequence(){
   }
   clearInterval(timer);
   timeLeft= timeGiven;
-  timer = setInterval(time, 1000);
+  timer = setInterval(updateTimer, 1000);
 }
 
 function loseGame(){
@@ -161,7 +161,7 @@ function resetTime() {
   document.getElementById("timer").innerHTML = "Time: 0s";
 }
 
-function time() {
+function updateTimer() {
   if (timeLeft > 0) {
     timeGiven--;
     document.getElementById("timer").innerHTML = "Time: " + timeGiven + "s";
